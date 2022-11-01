@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoKillApp</string>
+    <string name="btn_crash_me">Crash Me !</string>
+</resources>
